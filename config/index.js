@@ -39,7 +39,7 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "长春",
+    PROVINCE: "吉林",
     // 所在城市
     CITY: "吉林",
 
