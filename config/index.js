@@ -10,7 +10,7 @@ export const config = {
     APP_SECRET: "08e60829580034c6f05518104f7a580b",
 
     // 模板消息id
-    TEMPLATE_ID: "c-acnXt1gZqoZe5ME_VqtwQ_RVNwEJEFlYJXLBx9_jc",
+    TEMPLATE_ID: "BTO5ikWW_PlyZSs1xNpm63ODIXCidm5gB_FhyGBdUZ8",
 
     // 回调消息模板id, 用来看自己有没有发送成功的那个模板
     CALLBACK_TEMPLATE_ID: "xxxxxxxxxxxxx-y你懂的,填错狗头打烂VRMpu",
@@ -20,12 +20,9 @@ export const config = {
     //   name: "张三",
     //   id: "wxafasdasdd-zxfvsdfd"
     // },
-    // {
-    //   name: "李四",
-    //   id: "wxafasdasdd-zxfvsdfd"
-    // }]
+    // ]
     USERS: [
-      {name: '老婆0', id: "oIU0j6Vj-qXKw5_Y3tZ0JeYl2HmA"}, 
+      {name: 'sby', id: "oIU0j6Vj-qXKw5_Y3tZ0JeYl2HmA"}, 
       {name: '老婆1', id: "2hxOO6VskYv0Kuf-y你懂的,填错狗头打烂RMpuXhk"}, 
       {name: '老婆2', id: "3hxOO6VskYv0Kuf-yw你懂的,填错狗头打烂2RMpuXhk"}, 
       {name: '老婆3', id: "4hxOO6VskYv0Kuf-ywI你懂的,填错狗头打烂MpuXhk"}, 
@@ -42,9 +39,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "吉林",
+    PROVINCE: "长春",
     // 所在城市
-    CITY: "长春",
+    CITY: "吉林",
 
     /** 重要节日相关 */
 
@@ -61,12 +58,12 @@ export const config = {
     // 限制重要节日的展示条目, 需要填写数字; 
     // 如果为3, 则仅展示“将要到达” 的3个重要节日提醒，剩下的将被忽略
     // 如果为0, 则默认展示全部
-    FESTIVALS_LIMIT: 3,
+    FESTIVALS_LIMIT: 0,
 
     /** 日期相关 */
 
     // 在一起的日子，格式同上
-    LOVE_DATE: "2015-05-01",
+    LOVE_DATE: "2017-01-25",
     // 结婚纪念日
     MARRY_DATE: "2020-01-04",
 
